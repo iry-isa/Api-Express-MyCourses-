@@ -1,0 +1,17 @@
+
+
+
+node_modules/
+.env
+
+uploads/cursos/**.jpg
+uploads/cursos/**.png
+uploads/cursos/**.gif
+
+uploads/usuarios/**.jpg
+uploads/usuarios/**.png
+uploads/usuarios/**.gif
+
+uploads/profesores/**.jpg
+uploads/profesores/**.png
+uploads/profesores/**.gif
